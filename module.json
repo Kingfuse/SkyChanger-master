@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": true,
+    "name": "<font color='#00FFFF'> SkyChanger </font>",
+    "author": "<font color='#FDD017'> KingFuse</font>",
+    "description": "Changes the Sky",
+    "version": "1",
+    "options": {
+        "settingsVersion": 1,
+        "settingsFile": "config.json"
+    },
+    "servers": [""],
+    "supportUrl": ""
+}
